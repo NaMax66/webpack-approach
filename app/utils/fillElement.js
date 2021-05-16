@@ -1,4 +1,4 @@
 export default function(htmElement) {
-  htmElement.innerText = 'Я башка'
+  htmElement.innerText = 'Я хэдер'
   htmElement.style.background = 'red'
 }

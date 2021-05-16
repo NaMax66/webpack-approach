@@ -24,3 +24,5 @@ Promise.all([createHeaderPromise, fillElementPromise])
 
       document.body.appendChild(header)
 })
+
+alert(process.env.NODE_ENV)

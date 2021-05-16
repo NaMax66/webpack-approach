@@ -6,3 +6,4 @@
 ###Использование одновременной загрузки чанков через Promice.all
 ![img_1.png](img_1.png)
 
+####Комментарии в `webpack.config.js` на основании статьи: https://habr.com/ru/post/514838/
